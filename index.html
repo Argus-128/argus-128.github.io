@@ -16,5 +16,23 @@
      <p><code>git pull origin main</code> to <strong>PULL</strong> the repo first before pushing to it (if in case i do something stupid like editing index using the github web app)</p>
      <p><code>git add .</code> to add everything and prepare to commit and push.</p>
      <p><code>git push origin main</code> to finally push out my crap and let github do its thing.</p>
+     <!--Music code below-->
+       <button onclick="toggleMute()">Mute / Unmute</button>
+    <audio id="bgm" loop>
+      <source src="music.opus" type="audio/ogg; codecs=opus">
+      Your browser does not support the audio tag.
+    </audio>
+    <script>
+      const music = document.getElementById("bgm");
+      document.addEventListener("click", () => {
+        if (music.paused) {
+          music.play();
+        }
+      }, { once: true });
+
+      function toggleMute() {
+        music.muted = !music.muted;
+      }
+    </script>
   </body>
 </html>

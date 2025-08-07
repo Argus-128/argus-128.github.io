@@ -34,3 +34,14 @@ a:visited {
 a:hover {
   color: #00eeee;
 }
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin-top: 10px;
+  border: none;
+  background-color: #000000;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
