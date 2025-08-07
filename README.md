@@ -1,2 +1,2 @@
-# argus128.github.io
+# argus-128.github.io
 My website
