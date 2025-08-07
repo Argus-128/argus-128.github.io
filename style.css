@@ -16,5 +16,16 @@ h1, h2, h3 {
 }
 
 p {
-    font-size: 1rem;
+    font-size: 2rem;
+}
+a:link {
+  color: #00c8c8;
+}
+
+a:visited {
+  color: #ededed;
+}
+
+a:hover {
+  color: #00eeee;
 }
