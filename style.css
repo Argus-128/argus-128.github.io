@@ -26,9 +26,13 @@ p {
 
 a {
   background-color: black;
+  display: inline-block;
+  font-size: 1rem;
+  text-align: center;
   padding: 10px 20px;
   text-decoration: none;
   border-radius: 8px;
+  margin: 2px 2px;
 }
 
 a:link {
@@ -45,11 +49,18 @@ a:hover {
 
 button {
   padding: 10px 20px;
+  display: inline-block;
   font-size: 1rem;
-  margin-top: 10px;
+  margin: 2px 2px;
   border: none;
-  background-color: #000000;
+  font-size: 1rem;
+  background-color: black;
+  text-align: center;
   color: white;
   border-radius: 8px;
   cursor: pointer;
+}
+
+button:hover {
+  color: #00eeee;
 }
