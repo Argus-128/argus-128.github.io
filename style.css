@@ -63,6 +63,7 @@ button {
 
 button:hover {
   color: #00eeee;
+  background-color: #ee0000;
 }
 
 .flash-link {
@@ -75,6 +76,6 @@ button:hover {
 }
 
 .flash-link:hover {
-  background-color: darkorange;
+  background-color: #5;
 }
 
