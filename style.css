@@ -64,3 +64,17 @@ button {
 button:hover {
   color: #00eeee;
 }
+
+.flash-link {
+  background-color: orange;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.flash-link:hover {
+  background-color: darkorange;
+}
+
