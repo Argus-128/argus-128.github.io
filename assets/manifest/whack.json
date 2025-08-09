@@ -1,0 +1,13 @@
+{
+  "name": "Whack Your Boss",
+  "short_name": "Whack Your Boss",
+  "icons": [
+    {
+      "src": "../icons/whack.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/whack.html",
+  "display": "standalone"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Interactive Buddy",
+  "short_name": "Interactive Buddy",
+  "icons": [
+    {
+      "src": "../icons/buddy.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/interactivebuddy.html",
+  "display": "standalone"
+}

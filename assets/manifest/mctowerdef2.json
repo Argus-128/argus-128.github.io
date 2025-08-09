@@ -1,0 +1,13 @@
+{
+  "name": "Minecraft Tower Defense 2",
+  "short_name": "MC Tower Defense 2",
+  "icons": [
+    {
+      "src": "../icons/mctowerdef2.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/mctowerdef2.html",
+  "display": "standalone"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pac-Man",
+  "short_name": "Pac-Man",
+  "icons": [
+    {
+      "src": "../icons/pacman.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/pacman.html",
+  "display": "standalone"
+}

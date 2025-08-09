@@ -1,0 +1,13 @@
+{
+  "name": "Pong",
+  "short_name": "Pong",
+  "icons": [
+    {
+      "src": "../icons/pong.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/pong.html",
+  "display": "standalone"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Papa's Pizzeria",
+  "short_name": "Papa's Pizzeria",
+  "icons": [
+    {
+      "src": "../icons/papa.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/pizzeria.html",
+  "display": "standalone"
+}

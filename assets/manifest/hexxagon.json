@@ -1,0 +1,13 @@
+{
+  "name": "Hexxagon",
+  "short_name": "Hexxagon",
+  "icons": [
+    {
+      "src": "../icons/hexxagon.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/hexxagon.html",
+  "display": "standalone"
+}

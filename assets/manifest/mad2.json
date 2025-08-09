@@ -1,0 +1,13 @@
+{
+  "name": "Mutilate a Doll 2",
+  "short_name": "MaD 2",
+  "icons": [
+    {
+      "src": "../icons/mad2.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/mad2.html",
+  "display": "standalone"
+}

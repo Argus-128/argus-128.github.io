@@ -1,0 +1,13 @@
+{
+  "name": "Metele Al Ordenata (PC Breakdown)",
+  "short_name": "PC Breakdown",
+  "icons": [
+    {
+      "src": "../icons/metele.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/pcbreakdown.html",
+  "display": "standalone"
+}

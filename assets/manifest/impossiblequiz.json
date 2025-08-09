@@ -1,0 +1,13 @@
+{
+  "name": "The Impossible Quiz",
+  "short_name": "Impossible Quiz",
+  "icons": [
+    {
+      "src": "../icons/impossible.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/impossiblequiz.html",
+  "display": "standalone"
+}
