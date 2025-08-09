@@ -3,7 +3,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  min-height: 100vh;
   margin: 0;
   font-family: sans-serif;
   padding: 1rem;
@@ -63,7 +63,7 @@ button {
 
 button:hover {
   color: #00eeee;
-  background-color: #ee0000;
+  background-color: #000000;
 }
 
 .flash-link {
