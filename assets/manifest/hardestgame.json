@@ -1,0 +1,13 @@
+{
+  "name": "The World's Hardest Game",
+  "short_name": "Hardest Game",
+  "icons": [
+    {
+      "src": "../icons/hardestgame.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "../../game_pages/hardestgame.html",
+  "display": "standalone"
+}
